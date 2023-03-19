@@ -1,4 +1,4 @@
-import jwt, { decode } from "jsonwebtoken";
+import jwt from "jsonwebtoken";
 
 // wants to like a post
 // click the like button => auth middleware (next) => like controller ...
